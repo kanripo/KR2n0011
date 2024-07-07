@@ -4,7 +4,7 @@
 #+PROPERTY: ID KR2n0011
 #+PROPERTY: BASEEDITION WYG    
 #+PROPERTY: JUAN 卷三百
-<pb:KR2n0011_WYG_299-1a>¶
+<pb:KR2n0011_WYG_300-1a>¶
 欽定四庫全書¶
 　經義考卷三百¶
 　　　　　　　　　　翰林院檢討朱彝尊撰¶
@@ -13,7 +13,7 @@
 　¶
 　¶
 　¶
-<pb:KR2n0011_WYG_299-1b>¶
+<pb:KR2n0011_WYG_300-1b>¶
 　¶
 　¶
 　¶
